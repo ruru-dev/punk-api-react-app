@@ -1,0 +1,8 @@
+.beer-card {
+  list-style: none;
+  padding: 35px 0;
+}
+
+.beer-card img {
+  height: 200px;
+}
